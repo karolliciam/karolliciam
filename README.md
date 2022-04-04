@@ -2,7 +2,7 @@
 
 
 
-
+<center>
  🔭 I’m currently working on Javascript mini projects.
  🌱 I’m currently learning Conditions and Loops. Loops perform conditional and repetitive tasks. Normally, the condition returns true or false. The loop continues until the defined condition returns false.
 
